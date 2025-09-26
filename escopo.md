@@ -66,3 +66,85 @@ Fase 4: Entrega e Apresentação do TCC: (1 semana)
 # 10. Critérios de Aceitação 
  
 - O software atende a todos os requisitos funcionais e não funcionais definidos.
+
+# 11. Tecnologias
+🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+* Website (React + TypeScript)
+  * React Router Dom
+  * React Icons
+  * Axios
+  * Leaflet
+  * React Leaflet
+  * React Dropzone
+  * Veja o arquivo package.json
+
+* Server (NodeJS + TypeScript)
+  * Express
+  * CORS
+  * KnexJS
+  * SQLite
+  * ts-node
+  * dotENV
+  * Multer
+  * Celebrate
+  * Joi
+  * Veja o arquivo package.json
+
+* Mobile (React Native + TypeScript)
+  * Expo
+  * Expo Google Fonts
+  * React Navigation
+  * React Native Maps
+  * Expo Constants
+  * React Native SVG
+  * Axios
+  * Expo Location
+  * Expo Mail Composer
+  * Veja o arquivo package.json
+
+* Utilitários
+  * Protótipo: Figma → Protótipo (Ecoleta)
+  * API: IBGE API → API de UFs, API de Municípios
+  * Maps: Leaflet
+  * Editor: Visual Studio Code → Extensions: SQLite
+  * Markdown: StackEdit, Markdown Emoji
+  * Commit Conventional: Commitlint
+
+* Teste de API: Insomnia
+  * Ícones: Feather Icons, Font Awesome
+  * Fontes: Ubuntu, Roboto
+
+
+# 12. Pré-Requisitos
+Coisas necessárias para instalar o software e como instalar.
+
+*A ser incluído posteriormente.*
+
+
+# 13. Instalação
+Exemplos passo-a-passo que informam o que executar para ter um ambiente de desenvolvimento em execução.
+
+A ser incluído posteriormente.
+
+Funcionalidades e Demonstração da Aplicação
+Funcionalidade 1: descrição da funcionalidade 1
+Funcionalidade 2: descrição da funcionalidade 2
+
+*A ser incluído posteriormente.*
+
+# 14. Acesso ao projeto
+Caso o projeto esteja no ar com algum serviço de hospedagem, disponibilizar o link para o mesmo. Caso contrário, indicar como o usuário pode baixar o projeto, abrir e executar.
+
+*A ser incluído posteriormente.*
+
+# 15. Licença
+Geralmente, os repositórios públicos no GitHub são utilizados para compartilhar softwares de código aberto. Porém, para que um repositório seja realmente de código aberto, ele precisa obter uma licença para que outros tenham a liberdade de usar, alterar e distribuir o software.
+
+*A ser incluído posteriormente.*
+
+#  16. Agradecimentos
+(Acknowledgements em inglês) é um espaço opcional para dar crédito a pessoas, projetos, ou bibliotecas que ajudaram no desenvolvimento do seu projeto, como inspiração, recursos, ou colaboração. É uma forma de reconhecer a ajuda recebida e pode ser incluída para melhorar a usabilidade do projeto e a transparência.
+
+*A ser incluído posteriormente.*
+
